@@ -1,6 +1,6 @@
 # Contact Service
 
-[![Build Status](https://img.shields.io/travis/carbon-io-examples/contacts-service-advanced/carbon-0.6.svg?style=flat-square)](https://travis-ci.org/carbon-io-examples/contacts-service-advanced)
+[![Build Status](https://img.shields.io/travis/carbon-io-examples/contacts-service-advanced/carbon-0.6.svg?style=flat-square)](https://travis-ci.org/carbon-io-examples/contacts-service-advanced) ![Carbon Version](https://img.shields.io/badge/carbon--io-0.6-blue.svg?style=flat-square)
 
 This example illustrates the use of Carbon.io to implement a public API for managing personal contacts. This 
 API also handles user management, and allows for new users to register via the API, and then use the API to 
