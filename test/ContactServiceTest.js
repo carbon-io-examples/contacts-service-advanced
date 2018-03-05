@@ -261,7 +261,7 @@ __(function() {
           }
         },
         resSpec: {
-          statusCode: 200,
+          statusCode: 200
         }
       },
 
